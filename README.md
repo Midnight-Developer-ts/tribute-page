@@ -62,7 +62,7 @@ tribute-page/
 - Use media queries to ensure responsiveness on tablets and phones.
 
 ## 📸 Preview
-![Tribute Page Screenshot](./images/tribute-preview.jpeg)
+![Tribute Page Project Screenshot](./images/website-preview.jpeg)
 
 ⚠️ Note: The main portrait of Vlad Țepeș used in this project is sourced from Wikimedia Commons
 , which is in the public domain.
