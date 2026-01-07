@@ -5,9 +5,9 @@
 This project is part of my FreeCodeCamp Responsive Web Design certification.
 The objective was to build a tribute page using only HTML and CSS.
 
-I chose to honor Vlad Țepeș (Vlad the Impaler), the 15th-century ruler of Wallachia. While feared for his harsh punishments, he is also remembered in Romania as a strong leader who defended his land.
+The objective of this Tribute Page was to build a responsive webpage using only HTML and CSS while honoring a historical figure. I chose Vlad Tepes (Vlad the Impaler) because his complex legacy, feared for his harsh punishments, yet remembered in Romania as a strong leader who defended his land.
 
-The page focuses on clean structure, semantic HTML, responsive design, and simple styling that adapts across devices.
+The focus of this project was clean structure, semantic HTML, responsive design, and a simple layout that adapts smoothly across various screen sizes.
 
 ## ✨ Features
 
@@ -33,7 +33,7 @@ CSS – styling, layout, responsive media queries
 
 ## 🚀 How to Use
 
-<a href="https://midnight-developer-ts.github.io/tribute-page/">Click here to view the project</a>
+<a href="https://midnight-developer-ts.github.io/tribute-page/" target="_blank" rel="noopener norefferer">Click here to view the project</a>
 
 Or clone/download this repository and open index.html in your browser.
 
@@ -62,7 +62,7 @@ tribute-page/
 - Use media queries to ensure responsiveness on tablets and phones.
 
 ## 📸 Preview
-![Tribute Page Project Screenshot](./images/website-preview.jpeg)
+![Tribute Page Project Screenshot](./images/website-preview.png)
 
 ⚠️ Note: The main portrait of Vlad Țepeș used in this project is sourced from Wikimedia Commons
 , which is in the public domain.
