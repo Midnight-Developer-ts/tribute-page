@@ -12,57 +12,68 @@ The focus of this project was clean structure, semantic HTML, responsive design,
 ## ✨ Features
 
 - Responsive design that works on desktop, tablet, and mobile.
-
 - Semantic HTML5 structure for accessibility.
-
 - Styled headings, sections, and image with caption.
-
 - Historical highlights about Vlad Țepeș (birth, reign, and death).
-
 - A quote section with emphasis styling.
-
 - External resource link for further reading.
-
 - Footer credit section with developer link.
 
 ## 🛠️ Built With
 
-HTML – page structure and semantic elements
+HTML – structure
 
-CSS – styling, layout, responsive media queries
+CSS – styling
 
 ## 🚀 How to Use
 
-<a href="https://midnight-developer-ts.github.io/tribute-page/" target="_blank" rel="noopener norefferer">Click here to view the project</a>
+[`View Live Project`](https://midnight-developer-ts.github.io/tribute-page/)
 
-Or clone/download this repository and open index.html in your browser.
+1. Explore the webpage for a photo and information about Vlad Tepes. (Known As, Born, Died, Known For)
+2. To learn more you can click the "here" word to be redirected to an informational site (britannica).
+3. Click Midnight Developer in the footer to view more about the developer on Linktree.
 
 ## 📂 Project Structure
 
-tribute-page/
+tribute-page/ `root file`
 
-│── index.html       # main webpage  
+│── index.html `main webpage` 
 
-│── css/  
+│── css/ `styling folder`
 
-│   └── styles.css   # styling  
+│   └── styles.css `styling` 
 
-│── images/  
+│── images/ `image folder`
 
-│   └── tribute-preview.jpeg  # preview/share image  
+│   └── website-favicon.png `favicon` 
 
-│── README.md        # project details  
+│   └── website-preview.png `preview image`  
+
+│── README.md `project details`  
 
 ## 📌 Learning Goals
 
 - Practice semantic HTML elements (headings, sections, lists, figure, figcaption).
-
 - Apply CSS styling for readability and emphasis.
-
 - Use media queries to ensure responsiveness on tablets and phones.
+
+## 🎯 Certification Compliance
+
+This project fully meets all FreeCodeCamp Responsive Web Design
+Technical Documentation Page user stories and requirements.
 
 ## 📸 Preview
 ![Tribute Page Project Screenshot](./images/website-preview.png)
 
+[`View Live Project`](https://midnight-developer-ts.github.io/tribute-page/)
+
 ⚠️ Note: The main portrait of Vlad Țepeș used in this project is sourced from Wikimedia Commons
 , which is in the public domain.
+
+## 📄 License 
+
+This project is provided for portfolio and educational review only. 
+Copying, redistribution, or commercial use is prohibited. 
+
+This project is licensed under a Midnight Developer Proprietary License. 
+See the [LICENSE](https://github.com/Midnight-Developer-ts/tribute-page/blob/main/LICENSE) file for full terms.
