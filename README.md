@@ -47,7 +47,9 @@ tribute-page/ `root file`
 
 │   └── website-favicon.png `favicon` 
 
-│   └── website-preview.png `preview image`  
+│   └── website-preview.png `preview image` 
+
+│── LICENSE `license details`
 
 │── README.md `project details`  
 
